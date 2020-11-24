@@ -5,7 +5,7 @@ Pacman Path Finding is a python program that demonstrates dfs, bfs, ucs, and, A*
 ## Usage
 
 ```
-cd pacman
+cd Pacman
 python py/pacman.py -l mediumMaze -p SearchAgent -a fn=dfs
 python py/pacman.py -l mediumMaze -p SearchAgent -a fn=bfs
 python py/pacman.py -l mediumMaze -p SearchAgent -a fn=ucs
